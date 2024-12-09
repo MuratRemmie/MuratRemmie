@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MuratRemmie/MuratRemmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m @MuratRemmie
+- 👀 I’m interested in cats
+- 🌱 I’m currently learning coding
+- 💞️ Single as hell
+- 📫 To reach me: mka1905murat@gmail.com
+- 😄 Pronouns: i do not use pronouns. im a man im a he
+- ⚡ Fun fact: cats are bests fr
 
-Here are some ideas to get you started:
+<!---
+MuratRemmie/MuratRemmie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
